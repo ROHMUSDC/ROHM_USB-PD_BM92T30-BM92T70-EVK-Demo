@@ -1,0 +1,76 @@
+\t (00:00:39) allegro_free_viewer 16.6 S002 (v16-6-0A) Windows 32
+\t (00:00:39)     Journal start - Mon Mar 14 17:58:08 2016
+\t (00:00:39)         Host=ROHM10745 User=kbahar Pid=1128 CPUs=4
+\t (00:00:39) 
+\d (00:00:39) Database opened: C:/Users/kbahar/Documents/GitHub/USB-PD_AltModeEVK/Hardware Design Files/EVK1_BD92T30-Host/EVK1 Design Files REV03/Board/EVK1_BM92T30-HOST-EVK-101_BRD_REV03_2016-02-26.brd
+\i (00:01:51) zoom in 1 
+\i (00:01:51) setwindow pcb
+\i (00:01:51) zoom in 766.084 1492.385
+\i (00:01:51) trapsize 28898
+\i (00:01:51) zoom in 1 
+\i (00:01:51) setwindow pcb
+\i (00:01:51) zoom in 754.525 1492.385
+\i (00:01:51) trapsize 14449
+\i (00:01:52) roam start
+\i (00:01:52) roam x 240
+\i (00:01:52) roam y 48
+\i (00:01:52) roam x 80
+\i (00:01:52) roam y 16
+\i (00:01:52) roam x 240
+\i (00:01:52) roam y 48
+\i (00:01:52) roam x 64
+\i (00:01:52) roam y 16
+\i (00:01:53) roam x -32
+\i (00:01:53) roam y 16
+\i (00:01:53) roam x -368
+\i (00:01:53) roam y 112
+\i (00:01:53) roam end
+\i (00:01:54) zoom in 1 
+\i (00:01:54) setwindow pcb
+\i (00:01:54) zoom in 974.988 1488.341
+\i (00:01:54) trapsize 7225
+\i (00:01:57) setwindow form.vf_vis
+\i (00:01:57) FORM vf_vis 1 all_colorvisible YES 
+\i (00:01:58) FORM vf_vis 4 all_colorvisible YES 
+\i (00:01:59) FORM vf_vis all_all_visible YES 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) show element 
+\i (00:02:09) setwindow form.find
+\i (00:02:09) FORM find nets YES 
+\i (00:02:09) FORM find components NO 
+\i (00:02:10) FORM find pins NO 
+\i (00:02:11) setwindow pcb
+\i (00:02:11) pick grid 774.146 1546.138
+\t (00:02:11) last pick:  774.000  1546.000
+\i (00:02:39) setwindow text
+\i (00:02:39) close 
+\i (00:02:51) setwindow pcb
+\i (00:02:51) pick grid 836.277 1410.317
+\t (00:02:51) last pick:  836.000  1410.000
+\i (00:02:53) setwindow text
+\i (00:02:53) close 
+\i (00:03:01) setwindow pcb
+\i (00:03:01) pick grid 882.514 1381.419
+\t (00:03:01) last pick:  883.000  1381.000
+\i (00:03:04) setwindow text
+\i (00:03:04) close 
+\i (00:03:31) setwindow pcb
+\i (00:03:31) pick grid 535.737 1366.970
+\t (00:03:31) last pick:  536.000  1367.000
+\i (00:03:32) pick grid 541.517 1372.749
+\t (00:03:32) last pick:  542.000  1373.000
+\i (00:03:33) setwindow text
+\i (00:03:33) close 
+\i (00:03:45) setwindow pcb
+\i (00:03:45) pick grid 613.762 1375.639
+\t (00:03:45) last pick:  614.000  1376.000
+\i (00:03:47) setwindow text
+\i (00:03:47) close 
+\i (00:04:12) setwindow pcb
+\i (00:04:12) pick grid 1289.977 1692.073
+\t (00:04:12) last pick:  1290.000  1692.000
+\i (00:04:24) trapsize 13407
+\i (00:04:33) trapsize 11018
+\i (00:13:24) trapsize 11209
+\i (16:17:20) exit 
+\t (16:17:20)     Journal end - Tue Mar 15 10:14:49 2016
