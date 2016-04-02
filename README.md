@@ -3,7 +3,7 @@
 * PN: BM92T70-DEVICE-EVK-101 (occasionally referred to as "EVK2")
 * Description:  This Evaluation Kit will demonstrate ROHM's USB-PD Solution in conjunction with Pericom's SS MUX to provide a USB-PD Solution for USB Type C Applications
 * Developer: USDC Applications Engineering Team, ROHM Semiconductor
-* Repository Generated: July 2015
+* Repository Generated: April 2016
 
 ----
 ### General Information
@@ -14,16 +14,21 @@
 ----
 ### Repository Contents
 * Documentation Folder: Contains the latest HW PDF files, USB-PD General Datasheets, and Board Manual
-* EC-Firmware_ML610Q482: Contains the firmware source files for the embedded controllers (LAPIS MCU) for these EVK boards
+* EC-Firmware_ML610Q482: Contains the firmware source files for the embedded controllers (LAPIS MCU) for these EVK boards (Coming Soon!)
 * Hardware Design Files: Contains the Schematic/BOM/Gerber Source files for these EVK development boards
 
 -----
 ### Video Demonstrations
 * ROHM USBPD Type-C Controller BM92T30-HOST-EVK-101 Host (PC) Side Demo
-(Coming Soon!!!)
+	*(Coming Soon!!!)
 
 * ROHM USBPD Type-C Controller BM92T70-DEVICE-EVK-101 Device (Monitor/USB Device) Side Demo
-(Coming Soon!!!)
+	* (Coming Soon!!!)
+
+-----
+### Frequently Asked Questions (FAQ)
+* Q: For EVK2, the documentation refers to REV04 but the design files listed here are REV05.  What is the difference.
+* A: REV05 and REV04 are functionally identical.  Only change between EVK2 REV04 and REV05 is a fix of a broken net that was missed during the development of these boards.
 
 ----
 ### DISCLAIMER
