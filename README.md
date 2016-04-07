@@ -9,21 +9,27 @@
 ### General Information
 * If you have any questions about any of this technical information, please feel free to reach out to us as engineering@rohmsemiconductor.com
 * Please note that detailed technical notes explaining the USB-PD IC register mapping is not available for this IC in this repository and requires an NDA with ROHM for this information.
-	* Please reach out to your ROHM sales manager or visit https://www.rohm.com/web/global/contactus to establish this NDA for additional information.
+	* Please reach out to your ROHM sales manager, visit https://www.rohm.com/web/global/contactus or send a message to engineering@rohmsemiconductor.com to establish this NDA for additional information.
 
 ----
 ### Repository Contents
 * Documentation Folder: Contains the latest HW PDF files, USB-PD General Datasheets, and Board Manual
-* EC-Firmware_ML610Q482: Contains the firmware source files for the embedded controllers (LAPIS MCU) for these EVK boards (Coming Soon!)
 * Hardware Design Files: Contains the Schematic/BOM/Gerber Source files for these EVK development boards
 
 -----
 ### Video Demonstrations
-* ROHM USBPD Type-C Controller BM92T30-HOST-EVK-101 Host (PC) Side Demo
-	*(Coming Soon!!!)
 
-* ROHM USBPD Type-C Controller BM92T70-DEVICE-EVK-101 Device (Monitor/USB Device) Side Demo
-	* (Coming Soon!!!)
+* ROHM Evaluation Board Video Demo, BM92T30-HOST-EVK-101 (April 2016):
+	* https://youtu.be/YEIDfTC97i4
+
+* ROHM Evaluation Board Video Demo, BM92T70-DEVICE-EVK-101 (April 2016):
+	* https://youtu.be/2LjfqHi3JEg 
+
+* ROHM USBPD Type-C Alt Mode Demo PART1: DisplayPort Monitor Connection Demo (OLD-Live Demo, From 2015)
+	* https://www.youtube.com/watch?v=6yjsj-j72X8
+
+* ROHM USBPD Type-C Alt Mode Demo PART2: USB3.0 Super Speed Demo (OLD-Live Demo, From 2015)
+	* https://www.youtube.com/watch?v=sI1nSPhlAow
 
 -----
 ### Frequently Asked Questions (FAQ)
